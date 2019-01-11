@@ -1,0 +1,13 @@
+.bio-text p {
+  line-height: 2em;
+  color: #333;
+  font-size: 1em;
+}
+
+.bio-header {
+  color: #222;
+  font-size: 1.1em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}

@@ -1,0 +1,17 @@
+.social-header {
+  color: #222;
+  font-size: 1.1em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.social-text a > img {
+  height: 38px;
+  width: 38px;
+}
+
+.social-text a img {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}

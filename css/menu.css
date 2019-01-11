@@ -4,7 +4,7 @@
   align-items: center;
   height: 6rem;
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .menu a {
@@ -33,6 +33,11 @@
   font-size: 21px;
   width: 100%;
 }
+
+.menu-home a {
+  text-decoration: none;
+}
+
 @media (min-width: 60em) {
   .menu-home {
     width: auto;
