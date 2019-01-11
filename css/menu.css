@@ -18,11 +18,6 @@
   line-height: 1;
 }
 
-.menu-item:hover {
-  border-bottom: 2px solid #adc2cc;
-  margin-bottom: -2px;
-}
-
 .menu-home {
   flex-shrink: 0;
   font-weight: bold;
