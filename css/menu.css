@@ -1,0 +1,41 @@
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 6rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.menu a {
+  color: inherit;
+  line-height: 26px;
+  text-decoration: none;
+}
+
+.menu-item {
+  display: inline-block;
+  line-height: 1;
+}
+
+.menu-item:hover {
+  border-bottom: 2px solid #adc2cc;
+  margin-bottom: -2px;
+}
+
+.menu-home {
+  flex-shrink: 0;
+  font-weight: bold;
+  font-size: 21px;
+  width: auto;
+}
+
+.menu-items {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 550px;
+  padding: 0px;
+  margin-left: auto;
+}
