@@ -1,0 +1,21 @@
+.project-header {
+  color: #222;
+  font-size: 1.1em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.project-text a {
+  margin-right: 0.5em;
+}
+
+.project-text a > img {
+  height: 38px;
+  width: 38px;
+}
+
+.project-text a img {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
