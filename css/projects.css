@@ -17,5 +17,8 @@
 
 .project-text a img {
   margin-top: 1.5em;
-  margin-bottom: 1.5em;
+}
+
+#projects {
+  margin-bottom: 3em;
 }
