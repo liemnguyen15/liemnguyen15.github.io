@@ -1,5 +1,5 @@
 .bio-text p {
-  line-height: 2em;
+  line-height: 1.75em;
   color: #333;
   font-size: 1em;
 }
@@ -10,4 +10,8 @@
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.2em;
+}
+
+#bio {
+  margin-bottom: 3.5em;
 }
